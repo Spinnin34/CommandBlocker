@@ -1,0 +1,38 @@
+#
+#   ██████╗██████╗ ██╗███╗  ██╗███╗  ██╗██╗███╗  ██╗
+#  ██╔════╝██╔══██╗██║████╗ ██║████╗ ██║██║████╗ ██║
+#  ╚█████╗░██████╔╝██║██╔██╗██║██╔██╗██║██║██╔██╗██║
+#   ╚═══██╗██╔═══╝ ██║██║╚████║██║╚████║██║██║╚████║
+#  ██████╔╝██║     ██║██║ ╚███║██║ ╚███║██║██║ ╚███║
+#  ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚══╝╚═╝  ╚══╝╚═╝╚═╝  ╚══╝
+#
+
+Mode: BLACKLIST
+
+Message: "<#FB0000>E<#FC280F>r<#FD501F>r<#FE782E>o<#FFA03D>r &f» &7No tienes acceso a ese comando."
+
+Commands:
+  - /?
+  - /about
+  - /bukkit:?
+  - /bukkit:about
+  - /bukkit:help
+  - /bukkit:pl
+  - /bukkit:plugins
+  - /bukkit:ver
+  - /bukkit:version
+  - /help
+  - /paper
+  - /paper:paper
+  - /pl
+  - /plugins
+  - /pufferfish
+  - /pufferfish:pufferfish
+  - /purpur
+  - /purpur:purpur
+  - /spigot
+  - /spigot:spigot
+  - /ver
+  - /version
+
+HideColonCommands: false

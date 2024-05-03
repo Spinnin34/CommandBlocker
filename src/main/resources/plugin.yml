@@ -1,0 +1,7 @@
+name: CommandBlocker
+version: '${project.version}'
+main: p.commandblocker.CommandBlocker
+api-version: '1.16'
+commands:
+  commandblocker:
+    usage: "bloque comandos"
